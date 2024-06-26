@@ -1,4 +1,4 @@
-## Hola 👋, soy Juan David.
+## Hola 👋, soy Galindo.
 
 ### 🌐 Desarrollador Web
 
@@ -6,7 +6,7 @@
 
 ### Sobre mí
 
-¡Hola! Soy Juan David 💫, un apasionado desarrollador web con experiencia en la creación de aplicaciones web dinámicas y atractivas. Me especializo en tecnologías frontend y backend, siempre buscando aprender y mejorar mis habilidades.
+¡Hola! Soy Galindo 💫, un apasionado desarrollador web con experiencia en la creación de aplicaciones web dinámicas y atractivas. Me especializo en tecnologías frontend y backend, siempre buscando aprender y mejorar mis habilidades.
 
 ### 💻 Tecnologías y Habilidades
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Hi there 👋, I'm Juan David
+## Hi there 👋, I'm Galindo.
 
 ### 🌐 Web Developer
 
@@ -32,7 +32,7 @@
 
 ### About Me
 
-Hi! I'm Juan David 💫, a passionate web developer with experience in creating dynamic and engaging web applications. I specialize in both frontend and backend technologies, always looking to learn and improve my skills.
+Hi! I'm Galindo 💫, a passionate web developer with experience in creating dynamic and engaging web applications. I specialize in both frontend and backend technologies, always looking to learn and improve my skills.
 
 ### 💻 Technologies and Skills
 
